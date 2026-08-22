@@ -50,7 +50,7 @@ and pick a library folder once on first launch.
 **글(TXT·EPUB)**
 - 브라우저의 조판으로 쪽을 나눕니다 — 글자 크기를 바꾸면 즉시 다시 흐릅니다
 - 글꼴 네 가지 내장(네오둥근모Pro·나눔고딕·나눔명조·리디바탕), 배경 여섯 가지
-- 글자 크기·줄 간격·여백·쪽 넘김 모션을 **읽으면서** 바꿉니다
+- 글자 크기·줄 간격·글꼴·배경·여백을 **읽으면서** 바꿉니다 (쪽 넘김 모션은 옵션 화면에 있습니다)
 - EPUB의 삽화와 전면 그림(표지)을 그립니다
 
 **온라인** — Google Drive · SFTP · SMB 2/3 · FTP/FTPS. 폴더째 걸어 두는 받기 대기열이 있습니다
@@ -88,7 +88,8 @@ and pick a library folder once on first launch.
 **Text (TXT / EPUB)**
 - Pagination by the browser's own layout engine — change the font size and it reflows instantly
 - Four bundled fonts, six background themes
-- Font size, line height, margins and page-turn motion are adjusted **while reading**
+- Font size, line height, typeface, theme and margins are adjusted **while reading**
+  (the page-turn motion lives in Settings)
 - EPUB illustrations and full-page images (covers) are rendered
 
 **Online** — Google Drive, SFTP, SMB 2/3, FTP/FTPS, with a download queue you can point at whole folders
